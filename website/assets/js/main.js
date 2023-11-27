@@ -21,6 +21,6 @@ const counter = document.querySelector(".counter-number");
 async function updateCounter() {
     let response = await fetch("https://25jzpqaq6robvcw42ctua562x40pyxre.lambda-url.ca-central-1.on.aws/");
     let data = await response.json();
-    counter.innerHTML = ` Views: ${data}`;
+    counter.innerHTML = ` 👀 You are the ${JSON.stringify(data)} Viewer`;
 }
 updateCounter();
