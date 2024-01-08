@@ -10,7 +10,7 @@ Here is my attempt at the Cloud Resume Challenge and a breif discription of a sm
 
 ## Architecture
 
-![Architecture Diagram]()
+![Architecture Diagram]()![Architecture Diagram](/website/assets/images/Arch.png)
 
 ## Certification
 
