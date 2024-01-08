@@ -8,7 +8,9 @@ It allows Certified Profesionals to showcase their learnings and demonstrate the
 Here is my attempt at the Cloud Resume Challenge and a breif discription of a small problem I faced and how i solved it .
 
 
+## Architecture
 
+![Architecture Diagram]()
 
 ## Certification
 
